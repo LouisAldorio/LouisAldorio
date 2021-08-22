@@ -4,4 +4,6 @@
 
 ![Louis Aldorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisAldorio&show_icons=true&theme=radical)
 
+### Medium Articles
+
 [![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=louisaldorio)](https://medium.com/@louisaldorio)
